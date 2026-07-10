@@ -81,19 +81,6 @@ A lot of what I build is private — sensitive **biocomputational** research, co
 
 ---
 
-## Selected work
-
-| Project | What it is |
-|:--------|:-----------|
-| **Sunbeam Health** | AI intake engine for ADHD clinics |
-| **OpenGeneEdit** | AI plasmid design — Gemma + RAG over BioBricks |
-| **Relay** | Patient intake, triage & clinical assistant |
-| **Glaucoma CNN** | PyTorch on ~20k retinal scans · >98% accuracy |
-
-Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ7RKYhfhI3HWryfeyn8YHlV23jaTOMNknj_pOGDNmQ/edit?usp=sharing)**
-
----
-
 ## Highlights
 
 <p align="center">
@@ -115,6 +102,19 @@ Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ
 - **Harvard HSIL + McMaster** — Sunbeam Health incubated by both · Harvard HSIL top **50 / 14,700+** (1st in Canada hub)
 - **McMaster University** — Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
 - **Breakthrough Junior Challenge** — 1st in Canada (2024) · global top 15 (2025)
+
+---
+
+## Selected work
+
+| Project | What it is |
+|:--------|:-----------|
+| **Sunbeam Health** | AI intake engine for ADHD clinics |
+| **OpenGeneEdit** | AI plasmid design — Gemma + RAG over BioBricks |
+| **Relay** | Patient intake, triage & clinical assistant |
+| **Glaucoma CNN** | PyTorch on ~20k retinal scans · >98% accuracy |
+
+Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ7RKYhfhI3HWryfeyn8YHlV23jaTOMNknj_pOGDNmQ/edit?usp=sharing)**
 
 ---
 
