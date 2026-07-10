@@ -47,20 +47,20 @@
 
 This profile looks sparse **on purpose**.
 
-A lot of what I build is private — sensitive **biocomputational** research, company IP, and client projects that can't live in public repos. What you see here is only a small slice.
+A lot of what I build is private - sensitive **biocomputational** research, company IP, and client projects that can't live in public repos. What you see here is only a small slice.
 
 **Want the real picture?** Video demos, full project writeups, and everything else are on my resume:
 
-**[→ Resume (Google Doc) — demos & projects](https://docs.google.com/document/d/1zJ7RKYhfhI3HWryfeyn8YHlV23jaTOMNknj_pOGDNmQ/edit?usp=sharing)**
+**[→ Resume (Google Doc) - demos & projects](https://docs.google.com/document/d/1zJ7RKYhfhI3HWryfeyn8YHlV23jaTOMNknj_pOGDNmQ/edit?usp=sharing)**
 
 ---
 
 ## Currently
 
-- **Founder & CEO** — Sunbeam Health · AI-native intake for ADHD clinics  
+- **Founder & CEO** - Sunbeam Health · AI-native intake for ADHD clinics  
   Incubated by **Harvard HSIL** *(1st in Canada hub / top 50 out of 14,700+)* and **McMaster University**
-- **Computational biology** — scRNA-seq analysis, cell–cell communication (LIANA), protein / antibody & minibinder modeling (ESM3, AlphaFold), and other generative / predictive AI for bio
-- **Building** — OpenGeneEdit and other AI × bio tools
+- **Computational biology** - scRNA-seq analysis, cell-cell communication (LIANA), protein / antibody & minibinder modeling (ESM3, AlphaFold), and other generative / predictive AI for bio
+- **Building** - OpenGeneEdit and other AI × bio tools
 
 ---
 
@@ -99,9 +99,9 @@ A lot of what I build is private — sensitive **biocomputational** research, co
   <img src="https://img.shields.io/badge/Breakthrough_Jr-1st_Canada_·_Top_15_Global-1B3A6B?style=for-the-badge" alt="Breakthrough Junior Challenge"/>
 </p>
 
-- **Harvard HSIL + McMaster** — Sunbeam Health incubated by both · Harvard HSIL top **50 / 14,700+** (1st in Canada hub)
-- **McMaster University** — Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
-- **Breakthrough Junior Challenge** — 1st in Canada (2024) · global top 15 (2025)
+- **Harvard HSIL + McMaster** - Sunbeam Health incubated by both · Harvard HSIL top **50 / 14,700+** (1st in Canada hub)
+- **McMaster University** - Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
+- **Breakthrough Junior Challenge** - 1st in Canada (2024) · global top 15 (2025)
 
 ---
 
@@ -110,7 +110,7 @@ A lot of what I build is private — sensitive **biocomputational** research, co
 | Project | What it is |
 |:--------|:-----------|
 | **Sunbeam Health** | AI intake engine for ADHD clinics |
-| **OpenGeneEdit** | AI plasmid design — Gemma + RAG over BioBricks |
+| **OpenGeneEdit** | AI plasmid design - Gemma + RAG over BioBricks |
 | **Relay** | Patient intake, triage & clinical assistant |
 | **Glaucoma CNN** | PyTorch on ~20k retinal scans · >98% accuracy |
 
