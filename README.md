@@ -97,11 +97,11 @@ Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ
 ## Highlights
 
 <p align="center">
-  <img height="48" src="https://logo.clearbit.com/harvard.edu" alt="Harvard"/>
-  &nbsp;&nbsp;
-  <img height="48" src="https://logo.clearbit.com/mcmaster.ca" alt="McMaster"/>
-  &nbsp;&nbsp;
-  <img height="48" src="https://logo.clearbit.com/breakthroughprize.org" alt="Breakthrough Prize"/>
+  <img height="56" src="./assets/harvard.png" alt="Harvard"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" src="./assets/mcmaster.png" alt="McMaster University"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="48" src="./assets/breakthrough.png" alt="Breakthrough Prize"/>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ
   <img src="https://img.shields.io/badge/Breakthrough_Jr-1st_Canada_·_Top_15_Global-1B3A6B?style=for-the-badge" alt="Breakthrough Junior Challenge"/>
 </p>
 
-- **Harvard Health Systems Innovation Lab** — 1st in Canada hub / top 50 globally (Sunbeam Health)
+- **Harvard Health Systems Innovation Lab** — 1st in Canada hub / top 50 globally · incubating Sunbeam Health
 - **McMaster University** — incubating Sunbeam Health · Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
 - **Breakthrough Junior Challenge** — 1st in Canada (2024) · global top 15 (2025)
 
