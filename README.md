@@ -55,32 +55,6 @@ A lot of what I build is private - sensitive **biocomputational** research, comp
 
 ---
 
-## Currently
-
-- **Founder & CEO** - Sunbeam Health · AI-native intake for ADHD clinics  
-  Incubated by **Harvard HSIL** *(1st in Canada hub / top 50 out of 14,700+)* and **McMaster University**
-- **Computational biology** - scRNA-seq analysis, cell-cell communication (LIANA), protein / antibody & minibinder modeling (ESM3, AlphaFold), and other generative / predictive AI for bio
-- **Building** - OpenGeneEdit and other AI × bio tools
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nodejs,postgres,docker,linux,git,github" alt="Tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scRNA--seq-LIANA-2E8B57?style=flat-square" alt="scRNA-seq"/>
-  <img src="https://img.shields.io/badge/ESM3-Protein_AI-4B0082?style=flat-square" alt="ESM3"/>
-  <img src="https://img.shields.io/badge/AlphaFold-Structure-1E90FF?style=flat-square" alt="AlphaFold"/>
-  <img src="https://img.shields.io/badge/RAG-LLMs-FF6B35?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Healthcare_AI-0D9488?style=flat-square" alt="Healthcare AI"/>
-</p>
-
----
-
 ## Highlights
 
 <p align="center">
@@ -102,6 +76,32 @@ A lot of what I build is private - sensitive **biocomputational** research, comp
 - **Harvard HSIL + McMaster** - Sunbeam Health incubated by both · Harvard HSIL top **50 / 14,700+** (1st in Canada hub)
 - **McMaster University** - Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
 - **Breakthrough Junior Challenge** - 1st in Canada (2024) · global top 15 (2025)
+
+---
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nodejs,postgres,docker,linux,git,github" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scRNA--seq-LIANA-2E8B57?style=flat-square" alt="scRNA-seq"/>
+  <img src="https://img.shields.io/badge/ESM3-Protein_AI-4B0082?style=flat-square" alt="ESM3"/>
+  <img src="https://img.shields.io/badge/AlphaFold-Structure-1E90FF?style=flat-square" alt="AlphaFold"/>
+  <img src="https://img.shields.io/badge/RAG-LLMs-FF6B35?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Healthcare_AI-0D9488?style=flat-square" alt="Healthcare AI"/>
+</p>
+
+---
+
+## Currently
+
+- **Founder & CEO** - Sunbeam Health · AI-native intake for ADHD clinics  
+  Incubated by **Harvard HSIL** *(1st in Canada hub / top 50 out of 14,700+)* and **McMaster University**
+- **Computational biology** - scRNA-seq analysis, cell-cell communication (LIANA), protein / antibody & minibinder modeling (ESM3, AlphaFold), and other generative / predictive AI for bio
+- **Building** - OpenGeneEdit and other AI × bio tools
 
 ---
 
