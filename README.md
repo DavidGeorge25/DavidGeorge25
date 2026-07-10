@@ -58,7 +58,7 @@ A lot of what I build is private — sensitive **biocomputational** research, co
 ## Currently
 
 - **Founder & CEO** — Sunbeam Health · AI-native intake for ADHD clinics  
-  Incubated by **Harvard HSIL** *(1st in Canada hub / top 50 globally out of 14,000+)* and **McMaster University**
+  Incubated by **Harvard HSIL** *(1st in Canada hub / top 50 out of 14,700+)* and **McMaster University**
 - **Computational biology** — scRNA-seq analysis, cell–cell communication (LIANA), protein / antibody & minibinder modeling (ESM3, AlphaFold), and other generative / predictive AI for bio
 - **Building** — OpenGeneEdit and other AI × bio tools
 
@@ -107,13 +107,13 @@ Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Harvard_HSIL-1st_Canada_·_Top_50_Global-A51C30?style=for-the-badge" alt="Harvard HSIL"/>
-  <img src="https://img.shields.io/badge/McMaster-Incubated_·_GPA_3.99-7A003C?style=for-the-badge" alt="McMaster"/>
+  <img src="https://img.shields.io/badge/Harvard_HSIL_%2B_McMaster_Incubated-Top_50_%2F_14%2C700%2B-A51C30?style=for-the-badge" alt="Harvard HSIL + McMaster Incubated"/>
+  <img src="https://img.shields.io/badge/McMaster-GPA_3.99%2F4.00-7A003C?style=for-the-badge" alt="McMaster GPA"/>
   <img src="https://img.shields.io/badge/Breakthrough_Jr-1st_Canada_·_Top_15_Global-1B3A6B?style=for-the-badge" alt="Breakthrough Junior Challenge"/>
 </p>
 
-- **Harvard Health Systems Innovation Lab** — 1st in Canada hub / top 50 globally · incubating Sunbeam Health
-- **McMaster University** — incubating Sunbeam Health · Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
+- **Harvard HSIL + McMaster** — Sunbeam Health incubated by both · Harvard HSIL top **50 / 14,700+** (1st in Canada hub)
+- **McMaster University** — Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
 - **Breakthrough Junior Challenge** — 1st in Canada (2024) · global top 15 (2025)
 
 ---
