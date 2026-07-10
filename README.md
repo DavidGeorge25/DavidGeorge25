@@ -97,7 +97,9 @@ Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ
 ## Highlights
 
 <p align="center">
-  <img height="56" src="./assets/harvard.png" alt="Harvard"/>
+  <img height="48" src="./assets/harvard-logo.png" alt="Harvard University"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="48" src="./assets/harvard-hsil.png" alt="Harvard Health Systems Innovation Lab"/>
   &nbsp;&nbsp;&nbsp;
   <img height="40" src="./assets/mcmaster.png" alt="McMaster University"/>
   &nbsp;&nbsp;&nbsp;
