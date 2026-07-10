@@ -58,8 +58,8 @@ A lot of what I build is private — sensitive **biocomputational** research, co
 ## Currently
 
 - **Founder & CEO** — Sunbeam Health · AI-native intake for ADHD clinics  
-  *(Harvard HSIL: 1st in Canada hub / top 50 globally out of 14,000+)*
-- **Research** — Daniel Lab, McMaster · TNBC / Kaiso–TGFβ signalling
+  Incubated by **Harvard HSIL** *(1st in Canada hub / top 50 globally out of 14,000+)* and **McMaster University**
+- **Computational biology** — scRNA-seq analysis, cell–cell communication (LIANA), protein / antibody & minibinder modeling (ESM3, AlphaFold), and other generative / predictive AI for bio
 - **Building** — OpenGeneEdit and other AI × bio tools
 
 ---
@@ -96,10 +96,23 @@ Demos for these (and more) → **[resume](https://docs.google.com/document/d/1zJ
 
 ## Highlights
 
-- Harvard Health Systems Innovation Lab — **1st Canada / top 50 global**
-- Breakthrough Junior Challenge — **1st Canada (2024)** · global top 15 (2025)
-- DECA Provincial Champion · ICDC **99th percentile**
-- Honours Biochemistry, B.HSc. · McMaster · **GPA 3.99/4.00**
+<p align="center">
+  <img height="48" src="https://logo.clearbit.com/harvard.edu" alt="Harvard"/>
+  &nbsp;&nbsp;
+  <img height="48" src="https://logo.clearbit.com/mcmaster.ca" alt="McMaster"/>
+  &nbsp;&nbsp;
+  <img height="48" src="https://logo.clearbit.com/breakthroughprize.org" alt="Breakthrough Prize"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Harvard_HSIL-1st_Canada_·_Top_50_Global-A51C30?style=for-the-badge" alt="Harvard HSIL"/>
+  <img src="https://img.shields.io/badge/McMaster-Incubated_·_GPA_3.99-7A003C?style=for-the-badge" alt="McMaster"/>
+  <img src="https://img.shields.io/badge/Breakthrough_Jr-1st_Canada_·_Top_15_Global-1B3A6B?style=for-the-badge" alt="Breakthrough Junior Challenge"/>
+</p>
+
+- **Harvard Health Systems Innovation Lab** — 1st in Canada hub / top 50 globally (Sunbeam Health)
+- **McMaster University** — incubating Sunbeam Health · Honours Biochemistry, B.HSc. · GPA **3.99/4.00**
+- **Breakthrough Junior Challenge** — 1st in Canada (2024) · global top 15 (2025)
 
 ---
 
